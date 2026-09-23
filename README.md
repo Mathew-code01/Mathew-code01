@@ -1,186 +1,373 @@
 # Mathew Oloyede
 
-**Full Stack Engineer • AI Systems Engineer**
+### Software Engineer • Full-Stack Engineer • AI Systems Builder
 
-I build production-grade web applications, AI-powered products, and scalable backend systems with a strong focus on clean architecture, performance, and user experience.
+I build **production-oriented software systems** across web applications, AI products, backend services, automation platforms, and developer tooling.
 
-Over the past three years, I've designed and shipped applications ranging from AI platforms and SaaS products to browser automation systems, payment infrastructures, and intelligent backend services.
+My work focuses on turning complex product requirements into **clean, maintainable, scalable systems** — from frontend architecture and APIs to AI orchestration, data layers, automation, and deployment.
 
----
-
-## About
-
-My interests lie at the intersection of software engineering and artificial intelligence.
-
-I enjoy building products that solve real-world problems through thoughtful system design, maintainable code, and scalable architecture.
-
-My work spans the full product lifecycle—from product planning and interface development to backend architecture, deployment, monitoring, and continuous improvement.
+I enjoy working at the intersection of **software engineering and AI**, particularly where intelligent systems need to be reliable, secure, observable, and useful in real-world workflows.
 
 ---
 
-## Areas of Expertise
+## About Me
 
-* Full Stack Web Development
-* AI Application Development
-* Multi-LLM Integrations
-* REST API Design
-* Authentication & Authorization
-* Subscription & Payment Systems
-* Browser Automation
-* Real-Time Applications
-* Cloud Deployment
-* Performance Optimization
-* Responsive UI Engineering
-* Software Architecture
+I'm a software engineer with hands-on experience building and evolving full-stack applications and AI-powered systems.
+
+My engineering work spans the complete product lifecycle:
+
+* Product and system design
+* Frontend architecture
+* Backend and API development
+* Database design
+* AI/LLM integration
+* Automation and browser tooling
+* Authentication and authorization
+* Payments and subscription systems
+* Local and cloud AI infrastructure
+* Performance and reliability
+* Testing and debugging
+* Deployment and continuous improvement
+
+I care about more than making an application work once. I aim to build systems that are **understandable, testable, maintainable, secure, and capable of evolving as the product grows.**
 
 ---
 
-## Technologies
+## What I Build
 
-### Frontend
+### Full-Stack Applications
 
-React • Next.js • TypeScript • JavaScript • Tailwind CSS • Framer Motion • Redux • Zustand
+* React and Next.js applications
+* TypeScript-based frontend systems
+* REST APIs and backend services
+* Authentication and authorization
+* Real-time applications
+* Responsive and accessible interfaces
+* SaaS platforms and product dashboards
 
-### Backend
+### AI & Intelligent Systems
 
-Node.js • Express.js • REST APIs • JWT • OAuth • WebSockets • Socket.IO
+* AI-powered applications
+* Multi-provider LLM integrations
+* AI provider abstractions and routing
+* Local AI runtimes
+* Conversational systems
+* Retrieval and semantic memory
+* RAG architectures
+* AI agents and automation
+* Structured AI workflows
+* AI-assisted developer tooling
 
-### Artificial Intelligence
+### Backend & Systems Engineering
 
-OpenAI • Gemini • Claude • Hugging Face • LangChain • Prompt Engineering • Semantic Retrieval • Vector Memory Architecture
-
-### Databases
-
-MongoDB • PostgreSQL • Supabase • Firebase • MySQL • SQLite
-
-### DevOps
-
-Git • GitHub Actions • Vercel • Render • Netlify • Hostinger
+* Node.js and TypeScript services
+* API architecture
+* Database-backed applications
+* Service abstractions
+* Error handling and recovery strategies
+* Streaming systems
+* Background processing
+* Caching and performance optimization
+* System integration
 
 ### Automation
 
-Playwright • Puppeteer • Browser Automation • Workflow Automation
+* Browser automation
+* Playwright and Puppeteer
+* Workflow automation
+* Session management
+* Retry-safe workflows
+* Monitoring and automation infrastructure
+
+### Security & Reliability
+
+I'm particularly interested in building software where **security, privacy, reliability, and developer experience are part of the architecture rather than afterthoughts.**
+
+Areas I explore include:
+
+* Secure application architecture
+* Authentication and authorization
+* Credential and secret handling
+* Privacy-aware AI systems
+* Defensive engineering
+* Input validation
+* Failure handling
+* Observability
+* Reliable automation
+
+---
+
+# Current Engineering Focus
+
+### Veyra — Local AI Runtime & Application Infrastructure
+
+A long-running engineering project exploring how AI applications can operate through a structured local runtime architecture.
+
+The system includes work around:
+
+* Local model discovery and installation
+* Hardware/model capability detection
+* Llama.cpp-based model execution
+* Vision-capable local inference
+* AI provider abstractions
+* Cloud provider integrations
+* AI routing and execution strategies
+* Streaming responses
+* Error classification and recovery
+* Document processing pipelines
+* Parsing, normalization, chunking and indexing
+* Cancellation-aware processing
+* Modular system architecture
+
+The broader goal is to build AI infrastructure where **models, documents, context, providers, and application features can communicate through well-defined interfaces instead of tightly coupled implementations.**
+
+---
+
+### AI-Powered Applications
+
+I've also worked on AI applications involving:
+
+* Multi-model integrations
+* Conversational interfaces
+* Persistent context and memory
+* AI provider switching
+* Subscription-based access
+* Real-time interactions
+* Backend AI orchestration
+* User-focused AI workflows
+
+---
+
+### Developer & Automation Tools
+
+I build tools that automate repetitive workflows and improve developer productivity, including:
+
+* Browser automation
+* Workflow orchestration
+* API integrations
+* Monitoring systems
+* Developer utilities
+* Data-processing tools
+* AI-assisted workflows
+
+---
+
+# Technology
+
+### Languages
+
+`TypeScript` `JavaScript` `Python` `SQL` `HTML` `CSS` `Bash`
+
+### Frontend
+
+`React` `Next.js` `React Native` `Flutter` `Tailwind CSS` `Framer Motion` `Redux` `Zustand`
+
+### Backend
+
+`Node.js` `Express.js` `REST APIs` `WebSockets` `Socket.IO` `JWT` `OAuth`
+
+### AI / Machine Learning
+
+`OpenAI` `Google Gemini` `Mistral` `Claude` `Hugging Face` `LangChain` `RAG` `LLM APIs` `Semantic Retrieval` `Vector Memory` `Local LLMs` `Llama.cpp`
+
+### Databases
+
+`PostgreSQL` `MongoDB` `MySQL` `SQLite` `Firebase` `Supabase` `Vector Databases`
+
+### Automation
+
+`Playwright` `Puppeteer` `Browser Automation` `Workflow Automation`
+
+### Cloud & DevOps
+
+`Git` `GitHub` `GitHub Actions` `Vercel` `Render` `Netlify` `Hostinger`
 
 ---
 
 # Selected Projects
 
-## Neralynx AI
+## Veyra
 
-An AI relationship platform designed around long-term conversational memory and multi-provider language models.
+**Local AI Runtime & Intelligent Application Infrastructure**
 
-### Highlights
+An evolving AI infrastructure project focused on connecting local models, cloud AI providers, document processing, context, and application-level intelligence through modular interfaces.
 
-* Multi-provider AI orchestration
-* Persistent persona engine
-* Semantic memory retrieval
-* Vector memory architecture
-* Subscription billing
-* Authentication & authorization
-* Real-time messaging
+**Engineering areas:**
 
-**Technology**
+* Local LLM execution
+* Llama.cpp integration
+* Model installation and management
+* AI provider abstraction
+* Cloud AI providers
+* Streaming
+* Vision
+* AI routing
+* Error handling
+* Document processing
+* Context architecture
+* Production-oriented TypeScript design
 
-React • Node.js • MongoDB • Supabase • OpenAI • Gemini • Claude
+**Stack:** TypeScript • Node.js • Llama.cpp • AI APIs • Local AI • Cloud AI
 
 ---
 
-## Automation Bot
+## Neralynx AI
 
-A production-ready browser automation platform built for workflow automation and intelligent monitoring.
+**AI-powered conversational platform**
 
-### Highlights
+An AI application designed around conversational experiences, persistent context, and multi-provider language models.
 
+**Highlights:**
+
+* Multi-provider AI integration
+* Conversational AI
+* Persistent context
+* Semantic memory
+* Authentication
+* Subscription architecture
+* Real-time communication
+* Backend API design
+
+**Stack:** React • Node.js • MongoDB • Supabase • AI APIs
+
+---
+
+## Browser Automation Platform
+
+**Automation and intelligent workflow system**
+
+A browser automation project focused on reliable workflows rather than one-off scripts.
+
+**Highlights:**
+
+* Browser session management
 * Login orchestration
-* Session persistence
-* Retry-safe automation
-* Monitoring workflows
-* Playwright-based automation
+* Persistent sessions
+* Playwright automation
+* Retry-safe workflows
+* Monitoring
+* Workflow execution
+
+**Stack:** TypeScript • Node.js • Playwright • Browser Automation
+
+---
+
+## DevGraph
+
+**Graph-based developer intelligence application**
+
+A full-stack graph database application designed to model relationships between developers, projects, technologies, skills, and companies.
+
+**Engineering areas:**
+
+* Graph data modeling
+* Cypher queries
+* Multi-hop relationship traversal
+* REST API architecture
+* TypeScript frontend/backend
+* Database integration
+* Search and filtering
+* Graph visualization
+
+**Stack:** TypeScript • React • Node.js • Graph Database • Cypher
 
 ---
 
 ## FinTrackr
 
-A modern finance platform focused on intuitive budgeting and transaction management.
+**Personal finance management platform**
 
-### Highlights
+A finance-focused application centered around budgeting, transaction management, analytics, and secure user workflows.
 
-* Analytics dashboards
+**Highlights:**
+
+* Financial dashboards
 * Budget planning
-* Secure authentication
-* Responsive interface
+* Transaction management
+* Authentication
+* Data visualization
+* Responsive UI
 * Backend API architecture
 
 ---
 
 ## PurpleFlix
 
-A movie discovery application powered by the TMDB API.
+**Movie discovery platform**
 
-### Highlights
+A responsive movie discovery application integrating external APIs for search, filtering, genres, and trailers.
 
-* Advanced search
-* Genre filtering
-* Trailer integration
-* Responsive UI
-* Dark mode experience
+**Highlights:**
 
----
-
-## Engineering Principles
-
-I value software that is:
-
-* Maintainable
-* Scalable
-* Performant
-* Secure
-* Accessible
-* User-centered
-
-I believe great engineering is about building systems that continue to evolve long after their first release.
+* API integration
+* Search
+* Filtering
+* Responsive interface
+* Trailer discovery
+* Dark-mode experience
 
 ---
 
-## Currently Exploring
+# Engineering Principles
+
+I try to build software that is:
+
+* **Maintainable**
+* **Scalable**
+* **Reliable**
+* **Secure**
+* **Performant**
+* **Testable**
+* **Observable**
+* **Accessible**
+* **User-focused**
+
+I believe good engineering is not simply about writing more code.
+
+It is about making the **right boundaries**, keeping complexity understandable, designing for failure, and creating systems that can continue evolving after the first version ships.
+
+---
+
+# Currently Exploring
 
 * AI Agents
-* Retrieval-Augmented Generation (RAG)
-* Distributed Systems
+* Retrieval-Augmented Generation
+* Local LLM Infrastructure
+* AI Security
+* Browser Security
 * Vector Databases
-* System Design
+* Distributed Systems
 * Event-Driven Architecture
+* System Design
+* Backend Performance
+* Developer Tooling
+* Secure AI Applications
 * Cloud Infrastructure
-* Backend Performance Engineering
 
 ---
 
-## GitHub Analytics
+# GitHub Activity
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mathew-code01\&show_icons=true\&hide_border=true\&theme=transparent)
+I use GitHub not only to publish projects, but also as an engineering workspace for experimenting with architectures, building products, solving technical problems, and continuously improving my implementation practices.
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mathew-code01\&layout=compact\&hide_border=true\&theme=transparent)
+Recent work includes substantial development on **Veyra**, AI infrastructure, backend systems, automation, and full-stack applications.
 
 ---
 
-## Connect
+# Let's Connect
 
-**Portfolio**
-
+**Portfolio:**
 https://mthw-dev.vercel.app
 
-**LinkedIn**
-
-https://linkedin.com/in/mathew-oloyede-281b68367
-
-**GitHub**
-
+**GitHub:**
 https://github.com/Mathew-code01
 
-**Email**
+**LinkedIn:**
+https://www.linkedin.com/in/mathew-oloyede-281b68367/
 
+**Email:**
 [mathewoloyede100@gmail.com](mailto:mathewoloyede100@gmail.com)
 
 ---
 
-> *"Building software that is intelligent, scalable, and designed to solve meaningful problems."*
+> **Building software that is intelligent, reliable, scalable, and designed to solve meaningful problems.**
